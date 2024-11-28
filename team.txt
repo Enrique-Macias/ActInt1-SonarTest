@@ -1,0 +1,11 @@
+Mauricio Lozano Zárate - Matrícula: A00833216
+    - Implementación del algoritmo de búsqueda de subsecuencias maliciosas.
+    - Revisión de la salida del programa y ajuste del formato de output.
+
+Enrique Macías López - Matrícula: Enrique A01641402
+    - Implementación del algoritmo de búsqueda de palíndromos en las transmisiones.
+    - Pruebas del código con diferentes conjuntos de datos.
+
+Aleksandra Stupiec - Matrícula: A00835071
+    - Implementación del algoritmo de subsecuencia común más larga utilizando programación dinámica.
+    - Documentación y redacción del archivo de reflexión y análisis de la complejidad computacional.
